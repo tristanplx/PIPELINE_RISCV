@@ -21,8 +21,7 @@ This project implements a **pipelined RISC-V processor** based on the RV32I arch
 
 **Note**: Only the cache implementation files are provided in this repository. The single-cycle processor code was supplied as part of the course, and I do not wish to redistribute or claim ownership of this work.
 
-**Additional Note**: A significant part of the work involved creating a detailed report in LaTeX. Originally written in French, this report was entirely translated into English using ChatGPT due to time constraints.
-
+**Additional Note**: A significant part of the work involved creating a detailed report in LaTeX. The report is written in french.
 ### File Structure
 
 - `src/` - Source code for all modules (e.g., datapath, control path, caches).
